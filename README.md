@@ -18,7 +18,7 @@ import Foundation
 import PluggableApplicationDelegate
 
 final class LoggerApplicationService: NSObject, ApplicationService {
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey : Any]? = nil) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool {
         
         print("It has started!")
         
@@ -64,7 +64,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
-PluggableApplicationDelegate requires Swift 3.0 or above.
+PluggableApplicationDelegate requires Swift 4.2 or above.
 
 ## Installation
 
@@ -72,7 +72,7 @@ PluggableApplicationDelegate is available through [CocoaPods](http://cocoapods.o
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'PluggableApplicationDelegate'
+pod 'PluggableApplicationDelegate', :git => 'https://github.com/luis-ct/PluggableApplicationDelegate'
 ```
 
 ## Author
