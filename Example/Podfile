@@ -2,6 +2,7 @@ platform :ios, "10.0"
 
 use_frameworks!
 
-target 'PluggableApplicationDelegate_Example' do
+target 'Sample' do
   pod 'PluggableApplicationDelegate', :path => '../'
 end
+
