@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-               BuildableName = "PluggableApplicationDelegate_Example.app"
-               BlueprintName = "PluggableApplicationDelegate_Example"
-               ReferencedContainer = "container:PluggableApplicationDelegate.xcodeproj">
+               BuildableName = "Sample.app"
+               BlueprintName = "Sample"
+               ReferencedContainer = "container:Sample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
                BuildableName = "PluggableApplicationDelegate_Tests.xctest"
                BlueprintName = "PluggableApplicationDelegate_Tests"
-               ReferencedContainer = "container:PluggableApplicationDelegate.xcodeproj">
+               ReferencedContainer = "container:Sample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -49,7 +49,7 @@
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
                BuildableName = "PluggableApplicationDelegate_Tests.xctest"
                BlueprintName = "PluggableApplicationDelegate_Tests"
-               ReferencedContainer = "container:PluggableApplicationDelegate.xcodeproj">
+               ReferencedContainer = "container:Sample.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "PluggableApplicationDelegate_Example.app"
-            BlueprintName = "PluggableApplicationDelegate_Example"
-            ReferencedContainer = "container:PluggableApplicationDelegate.xcodeproj">
+            BuildableName = "Sample.app"
+            BlueprintName = "Sample"
+            ReferencedContainer = "container:Sample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "PluggableApplicationDelegate_Example.app"
-            BlueprintName = "PluggableApplicationDelegate_Example"
-            ReferencedContainer = "container:PluggableApplicationDelegate.xcodeproj">
+            BuildableName = "Sample.app"
+            BlueprintName = "Sample"
+            ReferencedContainer = "container:Sample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -99,9 +99,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "PluggableApplicationDelegate_Example.app"
-            BlueprintName = "PluggableApplicationDelegate_Example"
-            ReferencedContainer = "container:PluggableApplicationDelegate.xcodeproj">
+            BuildableName = "Sample.app"
+            BlueprintName = "Sample"
+            ReferencedContainer = "container:Sample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
